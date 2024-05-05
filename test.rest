@@ -1,0 +1,12 @@
+DELETE   http://localhost:5001/api/contacts/66278c8dacc58f8f91ce39e9
+
+###
+
+ http://localhost:5001/api/contacts
+Content-Type: application/json
+
+{
+    "name":"Sumit",
+    "email":"test@gmail.com",
+    "phone":"87238273212"
+}
